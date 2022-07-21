@@ -8,7 +8,7 @@ Two players play this game where Player 1 is the computer and you are Player 2. 
 
 **Level 3**- You have to guess a 6-digit number in 11 attempts.
 
-## Description of the game:
+## Implementation:
 
 1. Computer (Player 1) will randomly set a multi-digit number (according to the level you have selected) and you have to guess the number in the given number of attempts.
 2. If you succeed in your first attempt (*despite odds which are highly unlikely*) you win the game and are crowned Mastermind! 
